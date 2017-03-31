@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* `debugger`
-	* react router
-	* `<Router />` (BrowserRouter)
+  * `debugger`
+  * react router
+  * `<Router />` (BrowserRouter)
   * `<Route />`
   * `<Link />`
   * `npm` and `npm install`
@@ -14,9 +14,9 @@
 
 2. Fork and clone this repo.
 
-	* Create a boilerplate React app called me. `create-react-app me`
-	* Navigate into /me and run the command: `npm start`
-	* `App.js` should return the `<Router />` component as the base.
+  * Create a boilerplate React app called me. `create-react-app me`
+  * Navigate into /me and run the command: `npm start`
+  * `App.js` should return the `<Router />` component as the base.
   * Add a header to the top of your page with three `<Link />` components.
   * Create three components that will be three different "pages" that you will render.
   * The first comopnent should be called `<About />` and should display some fun facts about yourself.
