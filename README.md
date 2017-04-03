@@ -4,12 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-  * `debugger`
-  * react router
-  * `<Router />` (BrowserRouter)
-  * `<Route />`
-  * `<Link />`
-  * `npm` and `npm install`
+  * `debugger` - a command that lets you step through your project in Chrome tools
+  * react router - a React library that lets you use links to display desired component
+  * `<Router />` (BrowserRouter) - lists all the current links used and correlating component in your app
+  * `<Route />` - used to define each link in the Router
+  * `<Link />` - allows you to link HTML content to another component display, does not cause a page reload
+  * `npm` and `npm install` - node pack manager, used to install plugins
 
 
 2. Fork and clone this repo.
